@@ -4,7 +4,13 @@ Seattle App SOP
 App for deploy the system android.
 
 This Standard operating procedure should be run under Windows/GNU/Mac OS.
+
 * SHA: a57ca690140aa84cc476d4c2ddd4ada97636432e
+* User@SHA: mojombo@16c999e8c71134401a78d4d46435517b2271d6ac
+* User/Project@SHA: mojombo/github-flavored-markdown@16c999e8c71134401a78d4d46435517b2271d6ac
+* #Num: #1
+* User#Num: mojombo#1
+* User/Project#Num: mojombo/github-flavored-markdown#1
 
 2013-08-28 Alexander Salas  <alexander.salas@siragon.com.ve>
 
