@@ -119,6 +119,6 @@ adb -s %S% wait-for-device shell rm /system/app/OverTheAirDownloader.apk
 adb -s %S% wait-for-device shell rm /system/app/PinyinIME.apk
 adb -s %S% wait-for-device shell rm -R /sdcard/*
 adb -s %S% wait-for-device push system /system
-adb -s %S% wait-for-device shell wipe data
+REM adb -s %S% wait-for-device shell wipe data
 adb -s %S% wait-for-device reboot -p
 pause
