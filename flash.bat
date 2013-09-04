@@ -86,6 +86,8 @@ adb -s %S% wait-for-device root
 adb -s %S% wait-for-device shell mount -o remount,rw /system
 adb -s %S% wait-for-device push boot.img /cache/boot.img
 adb -s %S% wait-for-device shell dd if=/cache/boot.img of=/dev/block/mmcblk0p8
+adb -s %S% wait-for-device shell rm /system/app/Browser.apk
+adb -s %S% wait-for-device shell rm /system/app/Browser.odex
 adb -s %S% wait-for-device shell rm /system/app/BestChoice.apk
 adb -s %S% wait-for-device shell rm /system/app/BestChoice.odex
 adb -s %S% wait-for-device shell rm /system/app/Chrome.apk

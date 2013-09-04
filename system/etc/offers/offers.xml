@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <offers>
-  <offer name="Candy Crush" url="http://traktum.com/?a=65151&amp;c=212186&amp;s1=siragon" icon="/system/etc/offers/candycrush_144.png" package="com.king.candycrushsaga" />
+  <offer name="Candy Crush" url="http://adtrack.king.com/modules/adTracking/adClicked.jsp?type=ad&st1=appattach&st2=candycrushsaga&st3=us&st4=widget_icon&st5=186&link=market://details?id=com.king.candycrushsaga" icon="/system/etc/offers/candycrush_144.png" package="com.king.candycrushsaga" />
   <offer name="Megapolis" url="http://traktum.com/?a=65151&amp;c=208510&amp;s1=siragon" icon="/system/etc/offers/megapolis_144.png" package="com.socialquantum.acityint" />
   <offer name="Skype" url="http://tracking.appattach.com/9e5bbc06-853e-11e2-9d1c-12313f0170ac/3" icon="/system/etc/offers/skype-icon.png" package="com.skype.raider" />
   <offer name="Yahoo" url="http://ve.yahoo.com/?fr=appattach&amp;type=233" icon="/system/etc/offers/social_yahoo_box_lilac.png" />
