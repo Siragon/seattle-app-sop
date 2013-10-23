@@ -22,6 +22,3 @@ This Standard operating procedure should be run under Windows/GNU/Mac OS.
 [2013-09-02](https://github.com/Siragon/seattle-app-sop/commit/158f210ad4dcb0ab1e4ac176682830b5d2fb2c7b) Alexander Salas  <desarrollo03@siragon.com.ve>
 
    * offers.xml (AppAttach): adding the new icon and url for Skype, [http://market.appattach.com/contract/238](http://market.appattach.com/contract/238)
-	
-
-	
