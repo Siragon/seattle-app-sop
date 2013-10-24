@@ -22,6 +22,7 @@ if [ ! -e /data/system/notfirstrun ]; then
 	/system/bin/pm install /system/preinstall/com.yahoo.bookmark.apk
 	/system/bin/pm install /system/preinstall/la.droid.qr.apk
 	/system/bin/pm install /system/preinstall/org.wikipedia.apk
+	/system/bin/pm install /system/preinstall/com.whatsapp.apk
 	touch /data/system/notfirstrun
 
    echo "preinstall ok"
